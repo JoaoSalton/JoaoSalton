@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @JoaoSalton
-👀 I'm an environmental engineer with an interest in technology.
-🌱 Currently learning Systems Development & Analysis
-💞️ I'm looking to collaborate on exciting software projects and learning opportunities.
-📫 You can reach me at jftsalton@gmail.com
+Hi, I’m @JoaoSalton
 
-<!---
-JoaoSalton/JoaoSalton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Environmental Engineer currently pursuing a degree in Systems Analysis and Development, focusing on Computer Vision and AI.
+
+I build real-world computer vision systems using Python, OpenCV, and YOLO, including:
+
+• Object detection and tracking
+• Real-time video analysis
+• Automated monitoring systems
+• Dataset generation pipelines
+
+Areas of interest:
+Computer Vision • Artificial Intelligence • Automation • Real-time Systems
+
+I’m open to collaborating on interesting software and AI projects.
+
+LinkedIn: https://www.linkedin.com/in/joaoftsalton/
